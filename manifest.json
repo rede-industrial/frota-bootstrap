@@ -1,0 +1,9 @@
+{
+  "artifact_name": "gateway-infra-executor-d287159.tar.gz",
+  "source_commit": "d287159",
+  "sha256": "2cb23ea53d0f9f5f86b0c74ffcc26f9ae1fd85fd535b817fdae84c392f7a21a9",
+  "artifact_type": "GATEWAY_BOOTSTRAP",
+  "contains_secrets": false,
+  "contains_business_data": false,
+  "source_of_truth": "private canonical Git/GitHub"
+}
