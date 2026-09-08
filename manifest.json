@@ -1,8 +1,9 @@
 {
-  "artifact_name": "gateway-infra-executor-d287159.tar.gz",
-  "source_commit": "91453c1",
+  "artifact_name": "gateway-infra-executor-a339af2.tar.gz",
+  "source_commit": "a339af2",
   "artifact_version": "command-167-runtime-correction",
-  "sha256": "2cb23ea53d0f9f5f86b0c74ffcc26f9ae1fd85fd535b817fdae84c392f7a21a9",
+  "artifact_url": "https://raw.githubusercontent.com/rede-industrial/frota-bootstrap/RELEASE_COMMIT/gateway-infra-executor-a339af2.tar.gz",
+  "sha256": "3c778b268639a2fb837eb3a30946da2500d22286cf8f630cd146efd68e5abace",
   "artifact_type": "GATEWAY_BOOTSTRAP",
   "contains_secrets": false,
   "contains_business_data": false,
